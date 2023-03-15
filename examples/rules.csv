@@ -1,0 +1,2 @@
+description,transaction_type,risk,segment,debit_credit,min_amount,min_frequency
+Domestic Debit of High Risk SME,Domestic,High,SME,D,4000,2

@@ -1,0 +1,9 @@
+name = "SimLAMoN"
+uuid = "69a98e73-05d9-4e85-bc6c-1f022a64dc4e"
+authors = ["Lukasz Krainski <lukasz.krainski123@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+MetaGraphsNext = "fa8bd995-216d-47f1-8a91-f3b68fbeb377"

@@ -1,0 +1,4 @@
+node_id,segment,country,risk
+1,SME,PL,High
+2,Private Individual,PL,Medium
+4,Private Banking,US,High
